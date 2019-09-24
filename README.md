@@ -1,4 +1,4 @@
-# Compressibility_from_Digital_Rock
+# Compressibility predictions from Digital Rocks simulations
 Compressibility predictions using digital rock simulations
 
 This repository contains the code to obtain the minimum compressibility (Compressibility@1500psi) and maximum compressibility of compressibility curve using Digital Rock Simulations. 
